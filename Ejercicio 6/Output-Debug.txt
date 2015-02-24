@@ -1,0 +1,8 @@
+﻿'Ejercicio 6.exe': Loaded 'C:\Users\Chenko\Desktop\Curso 2012-2013\EDA\Practicas\Ejercicio 6\Debug\Ejercicio 6.exe', Symbols loaded.
+'Ejercicio 6.exe': Loaded 'C:\Windows\System32\ntdll.dll', Cannot find or open the PDB file
+'Ejercicio 6.exe': Loaded 'C:\Windows\System32\kernel32.dll', Cannot find or open the PDB file
+'Ejercicio 6.exe': Loaded 'C:\Windows\System32\KernelBase.dll', Cannot find or open the PDB file
+'Ejercicio 6.exe': Loaded 'C:\Windows\System32\msvcp100d.dll', Symbols loaded.
+'Ejercicio 6.exe': Loaded 'C:\Windows\System32\msvcr100d.dll', Symbols loaded.
+The thread 'Win32 Thread' (0x12e4) has exited with code -1073741510 (0xc000013a).
+The program '[4924] Ejercicio 6.exe: Native' has exited with code -1073741510 (0xc000013a).

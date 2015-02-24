@@ -1,0 +1,16 @@
+﻿1>------ Build started: Project: Ejercicio 7, Configuration: Debug Win32 ------
+1>Build started 24/05/2013 12:18:21.
+1>InitializeBuildStatus:
+1>  Touching "Debug\Ejercicio 7.unsuccessfulbuild".
+1>ClCompile:
+1>  main.cpp
+1>Link:
+1>  Ejercicio 7.vcxproj -> C:\Users\Chenko\Desktop\Curso 2012-2013\EDA\Practicas\Ejercicio 7\Debug\Ejercicio 7.exe
+1>FinalizeBuildStatus:
+1>  Deleting file "Debug\Ejercicio 7.unsuccessfulbuild".
+1>  Touching "Debug\Ejercicio 7.lastbuildstate".
+1>
+1>Build succeeded.
+1>
+1>Time Elapsed 00:00:02.52
+========== Build: 1 succeeded, 0 failed, 0 up-to-date, 0 skipped ==========
