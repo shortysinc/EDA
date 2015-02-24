@@ -1,0 +1,14 @@
+﻿Build started 24/02/2015 17:39:04.
+     1>Project "C:\Users\Jorge\EDA PRACTICAS\Ejercicio 1\Ejercicio 1\Ejercicio 1.vcxproj" on node 2 (Rebuild target(s)).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D _MBCS /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc110.pdb" /Gd /TP /analyze- /errorReport:prompt Main.cpp
+         Main.cpp
+     1>c:\users\jorge\eda practicas\ejercicio 1\ejercicio 1\pilale.h(116): warning C4715: 'PilaLE<char>::cima' : no todas las rutas de acceso de control devuelven un valor
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\Jorge\EDA PRACTICAS\Ejercicio 1\Debug\Ejercicio 1.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:\Users\Jorge\EDA PRACTICAS\Ejercicio 1\Debug\Ejercicio 1.pdb" /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\Jorge\EDA PRACTICAS\Ejercicio 1\Debug\Ejercicio 1.lib" /MACHINE:X86 Debug\Main.obj
+         Ejercicio 1.vcxproj -> C:\Users\Jorge\EDA PRACTICAS\Ejercicio 1\Debug\Ejercicio 1.exe
+     1>Done Building Project "C:\Users\Jorge\EDA PRACTICAS\Ejercicio 1\Ejercicio 1\Ejercicio 1.vcxproj" (Rebuild target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:02.12
